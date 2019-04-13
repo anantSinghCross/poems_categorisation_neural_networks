@@ -19,6 +19,11 @@ The code was built on a `Python 3.6` environment with the following external lib
 * `nltk`
 * `textblob`
 
+### What's in the Repo
+
+1. `poems.csv` - Dataset used for training the model (also available on *Kaggle*)
+1. `poems.py` - Main trainer program that pre-processes the data, builds and trains the model
+
 ### Solution
 
 #### Pre-Processing Data
